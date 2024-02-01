@@ -1,0 +1,128 @@
+Guia Calculo Infinitesimal UAI 
+
+1) Qué es calculo Infinitesimal? 
+Estudiamos lo que ocurre, acercandonos a una Infinitesimal (pequeña) distancia, a la que nunca llegamos a tocar. 
+Pero vamos a tener una excelente aproximacion de lo que está ocurriendo.
+
+2) ¿Con qué otro nombre se conoce a esta asignatura?
+Se conoce esta asignatura como analisis matematico.
+
+3) ¿A qué hacen referencias los nombres “Cálculo Infinitesimal” y “Análisis Matemático”?
+analisis matemático: Es por qué lo hacemos es analizar funciones a partir de herramientas matemáticas. Ej: El limite, la derivada y la integral.
+Analisis Infinitesimal: Analizan el comportamiento de las variables: Crece, decrece, está estancado, punto de inflexion, si toma velocidad, si acelera. 
+Estudiamos el movimiento.
+
+Usando las herramientas básicas: 
+- Limites
+- Derivadas
+- Integral
+
+4) Enuncie y explique tres diferencias entre matemática precálculo y matemática con cálculo
+Pre calculo 
+. Son estáticas
+. Permite analizar un objeto que se mueve con velocidad constante
+. Analiza la pendiente de una recta
+
+Precalculo: reformulado a través de un proceso de limite
+
+Calculo:
+. Son dinamicas
+. Permite analizar la velocidad de un objeto sometido a aceleracion
+. Analiza la pendiente de una curva
+
+Calculo: Construye las matemáticas del pre-cálculo. Es el proceso de limites. Es la nueva formuacion propia del cálculo en termino de derivadas e integrales.
+
+- Sin el concepto de limites no podria ser posible llegar a cálculos en diferentes areas, que ahora es posible a partir del concepto de limites.
+
+5) ¿Cómo se vincula el Cálculo Infinitesimal con la actividad en Sistemas de Información?
+
+
+
+6) ¿Cómo podemos vincular el concepto de función con la vida cotidiana y la actividad informática en particular?
+
+
+7) ¿Qué es el límite de una función en un punto?
+Representa el valor al cual se acerca la funcion.
+A medida que la variable independiente se aproxima a cierto valor que generalmente es un punto especifico en el dominio de la funcion.
+
+Resumen: El limite de una funcion es un punto. Describre el valor al cual se acerca la funcion a medida que la variable de entrada se acerca a un valor especifico (un punto)
+
+8) ¿Cuál es la relación entre los límites laterales y el límite de una función en un punto?
+El limite de una funcion es un punto existe SOLO si los limites laterales desde ambos lado del puerto son == y finitos. 
+Existen , son iguales y finitos.
+
+Estan relacionados respecto al comportamiento de la funcion a medida que la variable de la funcion se acerca ese punto desde diferentes direcciones. 
+Ambos conceptos son fundamentales para comprender la continuidad de un f(x)
+
+9) ¿Cómo explicó Isaac Newton la idea principal sobre los límites? (ver Newton y los límites en abordaje bibliográfico)
+En lugar de hablar explicitamente de limites, Newton se centrí en las variacioens infinitesimales (fluxiones) eran velocidades de cambio infinitesimal y se asemejaban conceptualmente a lo que ahora entendemos como derivadas (velocidad intantanea)
+
+10) ¿Qué propiedades tiene el límite?
+Las propiedades de los limites son operaciones que se pueden emplear para simplificar el cálculo del limite de una funcoin más compleja. 
+
+El limite de una suma es la suma de los limites. 
+- El limite de una diferencia es la diferencia de los limites.
+- El limite de una constante por una funcion es la constante por el limite de la funcion
+- El limite de un producto es un producto de los limites
+- El limite de un cociente es el cociente de los limites (siempre que el limite del denominador no sea cero.)
+
+Sean f(x) y g(x) dos funciones definidas en un mismo intervalo en donde está el valor de a del limite y k una constante.
+
+- Unicidad del limite: Cuando el limite e xiste, el limite es unico. 
+- Propiedad de la suma: El limite de la suma es la suma de los limites.
+- Propiedad de la resta: El limite de la resta es la resta de los limites.
+- Propiedad del producto: El limite del producto es el producto de los limites.
+- Propiedad de la funcion constante: El limite de una funcion constante es esta misma constante 
+- Propiedad del factor constante: Es un limite de una constante multiplicada por una funcion se puede sacar la constante del limite sin que se afecte el resultado
+
+11) ¿En qué casos podemos afirmar que un límite no existe? Dé ejemplos con funciones que muestren cada caso
+Limites: Cuando el limite por izquierda de una funcion es distinto al limite por derecha de la funcion. 
+Limite finito: NO EXISTE.
+Salto finito: porque se puede medir.
+Existen los limites por ambos lados pero NO EXISTE EL LIMITE COMO TAL.
+Salto infinito: No se puede medir. Limites no existen.
+
+12) En términos informáticos, ¿Cómo funciona un teorema?
+Pueden proporcionar fundamentos matemáticos sólidos para el diseño y análisis de algoritmos, la seguridad de sistemas y la teoria de la computacionales general. Ayuda a garantizar la correcion y eficiencia e los sistemas computacionales
+
+13) ¿Qué es un límite infinito?
+Se refiere a la idea de que una funcion al acercarse a ciertos valores, crece o decrece indefinidamente sin tener un valor limite finito.
+En terminos matemáticos puede expresarse utilizando limites.
+
+Estamos hablando de un comportamiento asintático de la funcion al acercarce a ciertos valores y no estamos asignando un valor especifico a la funcion en ese punto.
+
+14) ¿Qué es un infinitésimo?
+Es una cantidad que se considera infinitamente pequeña, los infinitesimales se utilizan para descubrir el cambio instantaneo en una variable y calculos en limites.
+
+Ej: Derivada se la puede pensar como el limite de la tasa de cambio cuando la cantidad de cambio se vuelve infinitamente pequeña. "sx" se usa combinada para representar un infinitesimal en la variable X.
+
+// Responde de la 22 hasta la 26
+15) Defina conceptualmente las principales características que se identifican en la gráfica de una función (cortes con los ejes, extremos, discontinuidades, asíntotas, signo, crecimiento, puntos de inflexión, concavidades).
+- Corte de los ejes: Punto en los cuales la grafica de la funcion contacta los ejes. El corte con el eje "x" se llama cero de la funcion y el corte con el eje "y" proporciona el valor de la funcion cuando X es igual a cero.
+- Extremos: Puntos en los que la funcion alcanza valores máximos o minimos. Pueden encontrarse derivando la funcion e igualando la derivada a cero. (Hallo las raices, reemplazo en la funcion original, analizo los signos o una linea.)
+- Discontinudades: Puntos en las cuales la funcion no es continua. Pueden clasificarse en discontinudades evitables y las no evitables o esenciales: De salto finito, de salto infinito, asintotas.
+Y las de 2da especie: En estas discontinudad no existe uno de los lados del punto, o ambos de los limites laterales es siempre la otra rama la que llega a un punto.
+- Asintotas: Lineas (verticales, horizontales u oblicuas) a las cuales se aproxima la grafica a medida que la variable se aleja hacia el infinito.
+Las asintotas H y V están determinadas por limites, las AO están relacionadas con comportamientos asintoticos más complejos se calculan / los polinomios.
+
+Si esa raiz del denominador a su vez es también raiz del numerador tengo una discontinuidad evitanle. NO ES UNA ASINTOTA VERTICAL. OJO.
+
+- Crecimiento: Indica la direccion en la que la funcion aumenta. La funcion es creciente en intervalos desde su derivada es positiva y decreciente donde su derivada es negativa.
+
+- Punto de inflexion: Punto en el que la concavidad de la grafica cambia. Ocurre donde la 2 derivada de uan funcion es = a 0. 
+(Factorizo, agrupo y reemplazo X por los valores hallados, reemplazo en la funcion original, compado signos, veo signo de la 2da derivado)
+
+16) ¿Qué es una indeterminación?
+Es una expresion algebraica que aveces aparece en el calculo de limites y cuyo valor sno se puede predecir, depende de la funcion del limite a calcular.
+- Regla de Lotopital: Se aplica para indeterminantes. Derivamos en el numerador y el denominador para calcular el limite. 
+Por qué 0/0 es una indeterminacion? Porque 0/ es cualquier numero te da cero
+
+17) Nombre las indeterminaciones conocidas:
+0 /0
+infinito / infinitamente
+infinito - infinito 
+infinito elevado al infinito
+
+18) ¿Cómo se puede conocer el resultado de una indeterminación del tipo ∞/∞ en el caso de un cociente de polinomios sin efectuar cálculos?
+Si el grado del polinomio del denominador es > que el del numero el limite es 0.
+Si los grados 
