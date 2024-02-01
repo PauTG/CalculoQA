@@ -125,4 +125,22 @@ infinito elevado al infinito
 
 18) ¿Cómo se puede conocer el resultado de una indeterminación del tipo ∞/∞ en el caso de un cociente de polinomios sin efectuar cálculos?
 Si el grado del polinomio del denominador es > que el del numero el limite es 0.
-Si los grados 
+Si los grados coinciden el limite es el cocidente de su coeficiencia.
+
+- Limites de una funcion:
+Tenemos que distinguir entre limite finito e infinito y limite cuando X tiende a un punto finito e infinito.
+
+Cuando X tiende a un punto finito "a" = lim f(x) = L 
+
+X tiende "a" se aproxima lo más posible por derecha "a" incrementada y por izquierda "a" decrementada.
+No puede tomar el X el valor de "a" ya que esto anula la funcion.
+
+//Bloque de 2 en una
+19) ¿Cuáles son las condiciones que deben cumplirse para garantizar la continuidad de una función f(x) en un punto x=a?
+Tiene que cumplir 3 condiciones, que exista funcion en un punto, que existan los limites y que sean coincidentes y que sean iguales al punto 1.
+20) . ¿Qué tipos de discontinuidad existen?, ¿cuándo se da cada una de ellas (vale decir, qué condiciones no se cumplen en cada caso?
+- Discontinuidad de salto infinito: Se da cuando el punto 2 donde los limites no coinciden me encuentro con una descontinuidad de salto infinito.
+- Discontinuidad de salto finito: Porque se puede medir. Es esencial porque no es evitable.
+
+
+
