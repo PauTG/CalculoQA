@@ -194,3 +194,21 @@ Velocidad y aceleracion respectivamente.
 35) ¿Cómo se utiliza la derivada en la resolución de límites indeterminados?
 0/0 IND; infinito/infinito;
 
+36) ¿Qué es un punto singular?. Dé ejemplos.
+Un punto singular es un valor de la variable independiente donde la funcion no está definida o no es diferenciable.
+
+37) ¿Cuál es la relación entre derivabilidad y continuidad?
+- Si una fioncion es derivable en un punto, entonces es continua en ese punto. (al revés puede ser diferente)
+
+- Derivabilidad implica continuidad en un intervalo abierto. 
+Si una f(x) es derivable en un intervalo abierto que incluye el punto C, entonces F(x) es continua en ese intervalo.
+
+- Una funcion puede ser continua pero no derivable en un punto.
+Ej: Funcion valor absoluto. 
+F(x) = |x| es x=0. 
+Aunque es continua en x=0 no es derivable en ese punto.
+
+RESUMEN: LA derivabilidad implica continuidad pero la continuidad no implica necesariamente derivabilidad.
+La derivabilidad en un punto indica que la funcion tiene una tasa de cambio instantanea bien definida en ese punto lo que implica que la funcion debe ser continua en ese punto.
+Sin embargo, la continuidad por si sola no garantiza la existencia de derivadas en un punto especifico.
+
