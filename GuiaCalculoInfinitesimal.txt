@@ -212,3 +212,76 @@ RESUMEN: LA derivabilidad implica continuidad pero la continuidad no implica nec
 La derivabilidad en un punto indica que la funcion tiene una tasa de cambio instantanea bien definida en ese punto lo que implica que la funcion debe ser continua en ese punto.
 Sin embargo, la continuidad por si sola no garantiza la existencia de derivadas en un punto especifico.
 
+38) ¿Cómo se cálcula las ecuación de las rectas tangente y normal a una función en un punto?
+Primero: encuentra la derivada de f(x) de la funcion.
+La derivada f(x) representa la pendiente de la tangente en cualquier Punto
+Segundo: evalua la derivada Evaluarla en un punto de interes x=a para encontrar la pendiente de la recta tangente en ese punto = F(a)
+Tercero: Usar la forma punto-pendiente de la eucacion de una recta: Y - Y1 = M (x-x1) donde (x1,y1) es el punto de la tangencia y M es la pendiente.
+
+La recta normal se calcula: LA pendiente de la recta tangente es igual a LA INVERSA DE LA OPUESTA ES LA NORMAL.
+
+39) Indique algunas claves para la determinación del dominio de una función
+
+Punto 40 y 41:
+40) Explique cómo se determina el crecimiento y los extremos (absolutos y relativos) de una función. 
+Hallar la segunda derivada.
+- Igualar a cero
+- Factorizar { o rufini } {formu. resolvente}
+- Agrupo terminos semi WUT
+- Obtengo los puntos de inflexion
+Los reemplazo en la funcion original para hallar los intervalos
+41) Explique cómo se determinan los puntos de inflexión y las concavidades de una función.
+
+
+42) ¿Concavidad positiva implica crecimiento? 
+Concavidad positiva implica crecimiento
+
+43) ¿Concavidad negativa implica decrecimiento?
+No, solo indica que la forma de la grafica cambia.
+
+47) Explique la relación entre el concepto de integral definida y el área
+- Integral definida: Representa la acumulacion de una cantidad continua a lo largo de un intervalo especifico.
+
+Geometircamente la integral definida se interpreta como el area bajo la curva de la funcion f(x), entre los puntos x=a, x=b en el plano xy.
+Si la funcion F(x) está por encima del eje X, el area se considera positiva, si está por debajo se considera negativa.
+
+48)Explique la relación entre integrales y derivadas. 
+Teorema fundamental del calculo: 
+Sea f(x) una funcion continua en el itervalo [a,b] y f(x) cualquier funcion primitiva (antiderivada) de f(x) es [a,b]
+
+La integral definidade una funcion continua es igual a diferencia de sus valores antiderivados en los limites superiores e inferiores de integracion
+
+LA INTEGRAL DA LA SUMA TOTAL ACUMULADA Y LA DERIVADA DICE COMO CAMBIA ESA SUMA EN TODO MOMENTO. 
+
+1ERA integrla: Pienta en la integral como una operacion que te ayuda a encontrar la acumulacion de algo a lo largo de un intervalo. 
+Podés usar la integral para sumar muchas pequeñas cosas y obtener el total.
+
+2DA derivada: Imagina que tenés esa distancia total recorrida y querés saber a qué velocidad iba el auto en un momento espefico.
+
+
+49) Enuncie las propiedades de linealidad en la integral definida.
+Nos dice que si tenemos una constante multiplicando 2 funciones que dependen de X y todo se integra respecto de X, la constante se puede sacar de la integral y la integral de la suma o resta se puede separar. 
+- La integral de una suma es la suma de las integrales.
+- La integral de una constante por una funcion es la constante por la integral de la funcion. Implica que se puede sacar la constante fuera de la integral.
+
+
+50) Enuncie los métodos para el cálculo de integrales
+- Metodo directo
+- Por parte
+- Por sustitucion
+- Descomposicion en fracciones simples
+
+51) Nombre aplicaciones de la integral
+- Calculo de áreas
+- Longitud de acercandonos
+- Volumen de solidos de revolucion
+- Centro de matemáticas
+- Momento de inercia
+- Trabajo y energia
+- Ecuaciones diferenciales
+- Calculo de probabilidades
+
+52) Explique el concepto de integral impropia y dé ejemplos
+Las integrales impropias son una extension del concepto de integral definida y se aplican a funciones que pueden no estar acotadas o definidas en intervalos finitos.
+Involucran limites y se utilizan cuando la funcion presenta comportamientos infinitos o discontinuidades dentro del intervalo de integraacion.
+
