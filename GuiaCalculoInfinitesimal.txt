@@ -142,5 +142,55 @@ Tiene que cumplir 3 condiciones, que exista funcion en un punto, que existan los
 - Discontinuidad de salto infinito: Se da cuando el punto 2 donde los limites no coinciden me encuentro con una descontinuidad de salto infinito.
 - Discontinuidad de salto finito: Porque se puede medir. Es esencial porque no es evitable.
 
+21) Pseudocodigo
 
+22) ¿Qué es una asíntota?, ¿qué tipos de asíntotas existen?
+
+Son lineas imaginarias que se acercan cada vez más a una funcion pero NUNCA la tocan ni la cruzan.
+En funciones, son comportamientos limite que descubren el comportamiento de la funcion a medida que la variable de la funcion se acerca a valores extremos. 
+
+28) ¿Qué es el cociente incremental? Dé ejemplos de situaciones cotidianas
+Se utiliza para definir la derivada de una funcion, el cociente de incremental de un punto X es la razon de cambio promedio de la funcion en el pequeño intervalo alrededor de X.
+Ejemplo de la vida cotidiana: Registro de la distancia que recorre un auto en funcion del tiempo.
+La distancia => funcion del tiempo = t = tiempo en hora
+
+29) Explique cómo se vincula la pendiente de la recta tangente a la curva de una función en un punto con el concepto de derivada
+La derivada en ese punto representa la tasa de cambio (cambio instantaneo) instantanea de la funcion en ese punto que es equivalente a la pendiente de la recta tangente
+
+La derivada de un punto x=a es igual a la pendiente de la recta tangente en ese punto.
+Resumen: La derivada es un punto dado indica como cambia la funcion en ese punto y la pendiente de la recta tangente es ese punto que refleja esa tasa de cambio instantaneo 
+
+30) ¿Cuál es la diferencia entre velocidad media, aproximada e inmediata?
+Son conceptos relacionados con la velocidad de un objeto en movimiento, se diferencian en la forma en que se calculan y representan
+
+- Velocidad media: Es la distancia total recorrida/dividida por el tiempo total recorrido.
+Describe la tasa promedio en la que un objeto se mueve a lo largo de un intervalo de tiempo
+- Velocidad aproximada: Calculo de velocidad no exacto, no se basa en mediciones exactas y puede ser una estimacion más general de la rapidez de un objeto 
+- Velocidad instantanea: Es la velocidad de un objeto en un momento especifico. Es el limite de la velocidad media cuando el intervalo de tiempo tiende a cero.
+ES LA VELOCIDAD EXACTA EN UN PUNTO ESPECIFICO DE LA TRAYECTORIA.
+Esta velocidad proporciona instantaneamente informacion precisa sobre la velocidad y la direccion de un objeto en un momento exacto y puede variar a lo largo del tiempo y se representa 0 la derivada de la posocion respecto al tiempo
+
+31)Explique la derivada como límite del cociente incremental
+ES un limite de la resta entre la funcion en X y un incremento, menos la funcion original.
+Cociente es la division.
+Incremental: Es el delta ya que calcula el incremento que hay entre la funcion con el incremento, menos la funcion original, cuando ese incremento se anula.
+
+32) ¿Cuál es la diferencia entre función derivada y derivada de una función en un punto?
+Funcion derivada: Es como un conjunto de velocidades para cada momento.
+Funcion derivada de un punto: Es la velocidad exacta en ese punto especifico. 
+En ambos casos, estamos hablando de como algo cambia. 
+
+33) ¿Cuál es la relación entre la derivada (primera y segunda) y el comportamiento de una función?
+La derivada es un limite: Es el limite de la resta entre la funcion en X y un incremento, menos la funcion original cuando ese incremento se tiende a anular.
+1era derivada: Maxima y minimos. Creciente y decreciente.
+2da derivada: Puntos de inflexion. 
+
+- Como la derivada es la pendiente de la recta tangente frena donde la velocidad se anula porque la pendiente es cero ya que la recta tangente en 000 se para horitontal = 0.
+No se pone ni creciente ni decreciente indicando pendiente en 0.
+
+34) ¿Con qué conceptos de la física se relacionan la primera y la segunda derivada?
+Velocidad y aceleracion respectivamente.
+
+35) ¿Cómo se utiliza la derivada en la resolución de límites indeterminados?
+0/0 IND; infinito/infinito;
 
